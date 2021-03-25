@@ -31,5 +31,5 @@ truffle console
 ```bash
 truffle console
 
-todoList - await TodoList.deployed()
+todoList = await TodoList.deployed()
 ```
