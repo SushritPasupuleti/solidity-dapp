@@ -19,3 +19,17 @@ truffle compile
 ```bash
 truffle migrate
 ```
+
+### Console
+
+```bash
+truffle console
+```
+
+### Deploy Smart Contract
+
+```bash
+truffle console
+
+todoList - await TodoList.deployed()
+```
