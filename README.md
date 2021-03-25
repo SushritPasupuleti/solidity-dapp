@@ -13,3 +13,9 @@ truffle init
 ```bash
 truffle compile
 ```
+
+### Migrate
+
+```bash
+truffle migrate
+```
