@@ -7,3 +7,9 @@
 ```bash
 truffle init
 ```
+
+### Compile
+
+```bash
+truffle compile
+```
